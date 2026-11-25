@@ -141,13 +141,13 @@
     "1059": 9.0
   },
   "shears_extreme_breaking_speed": {
-    "1255": 1.0
+    "1255": 15.0
   },
   "shears_major_breaking_speed": {
-    "1255": 1.0
+    "1255": 5.0
   },
   "shears_minor_breaking_speed": {
-    "1255": 1.0
+    "1255": 2.0
   },
   "plant;mineable/axe": {
     "1025": 1.5,
